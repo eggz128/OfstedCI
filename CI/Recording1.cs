@@ -99,6 +99,8 @@ namespace CI
             repo.MainForm.Close.Click("9;20");
             Delay.Milliseconds(0);
             
+            Report.Log(ReportLevel.Info, "User", "Test CI", new RecordItemIndex(5));
+            
         }
 
 #region Image Feature Data

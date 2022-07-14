@@ -1769,6 +1769,18 @@ G7PaiwCsoZSp6EYODiohawARgRgCM5QAn5fp/n2qTf7Ub/aiwEZtYCJAYwRIcuCT831/z04pRbxB
 FABRRRQAUUUUAFFFFAH/2Q==
 			</helperscreenshot>
 		</mouseitem>
+		<loggingrecorditem
+		category="User"
+		enabled="True"
+		message="Test CI"
+		optional="False"
+		reportlevel="Info;20"
+		searchpropertyid="2d199369-ca14-47f0-8c53-8d0e50bb45cc">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+		</loggingrecorditem>
 	</recorditems>
 	<repository
 	id="e66d9901-c851-473e-869d-8191f01ea091"
